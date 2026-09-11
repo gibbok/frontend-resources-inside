@@ -102,7 +102,7 @@ A list of articles, books, projects, etc... about frontend development
   * Flow and Typescript
     http://putaindecode.io/fr/articles/js/flow/
   * The Concise TypeScript Book
-    https://gibbok.github.io/typescript-book/it-it/
+    https://gibbok.github.io/typescript-book/
 
 * Code linting
   * Eslint
